@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "836942370857",
+    "firebase_url": "https://pinky2-9de37.firebaseio.com",
+    "project_id": "pinky2-9de37",
+    "storage_bucket": "pinky2-9de37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836942370857:android:66c18f83dddd1952",
+        "android_client_info": {
+          "package_name": "com.example.farzicoder.picky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836942370857-u342notlpk6vlp1kc4kmbaacvuaccrgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaISG88nckJp4zNtZfVUPdPxdzfbFVvLo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
